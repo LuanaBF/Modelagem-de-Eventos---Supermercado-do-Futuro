@@ -1,5 +1,7 @@
 # Modelagem de Eventos - Supermercado do Futuro
 
+INSTRUÇÂO: Clique no link PDF para ver a imagem maior.
+
 ### Identificação de eventos
 ---
 [01 - Identificação de eventos.pdf](https://github.com/user-attachments/files/22523800/01.-.Identificacao.de.eventos.pdf)
